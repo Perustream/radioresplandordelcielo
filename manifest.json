@@ -1,10 +1,10 @@
 {
-  "name": "Resplandor",
-  "short_name": "Resplandor",
+  "name": "Resplandor del Cielo",
+  "short_name": "Resplandor del Cielo",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#000000",
+  "theme_color": "#87CEEB",
   "icons": [
     {
       "src": "https://i.postimg.cc/c13s5hPR/Picsart-25-07-11-11-12-54-415.png",
