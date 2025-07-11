@@ -1,9 +1,9 @@
 {
-  "name": "Resplandor del Cielo",
-  "short_name": "Resplandor del Cielo",
+  "name": "Radio Resplandor del Cielo",
+  "short_name": "Resplandor",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#000000",
+  "background_color": "#87CEEB",
   "theme_color": "#87CEEB",
   "icons": [
     {
